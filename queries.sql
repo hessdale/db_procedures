@@ -1,0 +1,1 @@
+call new_client_insert('dale', 'dale@email.com', 'north st', '2020-01-01');
